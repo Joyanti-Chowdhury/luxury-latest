@@ -1,0 +1,408 @@
+@media only screen and (max-width: 1600px) {
+    .search {
+        width: 78%;
+    }
+}
+
+@media only screen and (max-width: 1400px) {
+
+    .cart-1 a {
+        top: 450px;
+        left: 107px;
+    }
+
+    .section-plus::before {
+        left: 455px;
+    }
+
+    .footer .row .col-3 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+
+    .footer .row .col-2 {
+        flex: 0 0 auto;
+        width: 49.9%;
+    }
+
+    .subs {
+        left: 450px;
+    }
+
+    .breadcrumb {
+        margin: 0px 502px;
+    }
+}
+
+
+@media only screen and (max-width: 1200px) {
+
+    .search {
+        width: 69%;
+    }
+
+    .mb-8 {
+        margin-bottom: 6rem;
+    }
+
+    #trendy-products button {
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+
+
+    .cart-1 a {
+        top: 385px;
+        left: 85px;
+    }
+
+    .section-plus::before {
+        left: 365px;
+    }
+
+    .view-more .view-flex {
+        display: flex;
+    }
+
+    #blogs .row {
+        margin: 0 auto;
+    }
+
+    .view-more .col-4 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .view-flex .view-flex-sub {
+        margin-top: 0px !important;
+    }
+
+    .view-last {
+        margin-bottom: 0px !important;
+    }
+
+    #blogs .col-3 {
+        flex: 0 0 auto;
+        width: 40%;
+    }
+
+    .blog-res-1 {
+        margin-top: 30px;
+    }
+
+    .blog-res-2 {
+        margin-top: 140px;
+    }
+
+    .footer .row .col-3 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+
+    .footer .row .col-2 {
+        flex: 0 0 auto;
+        width: 49.9%;
+    }
+
+    .subs {
+        left: 350px;
+    }
+
+    .breadcrumb {
+        margin: 0px 412px;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 991px) {
+
+    nav,
+    #all-products,
+    #trendy-products,
+    .client,
+    .view-more,
+    #blogs,
+    .footer {
+        width: 990px;
+    }
+
+    .search {
+        width: 59%;
+    }
+
+
+    .img-carousel {
+        height: 300px;
+        width: 655px;
+    }
+
+    .mb-8 {
+        margin-bottom: 3rem;
+    }
+
+
+    .figure-1 figcaption {
+        top: 105px;
+        left: 161px;
+    }
+
+    .f1-img,
+    .res-div2 {
+        display: contents !important;
+    }
+
+    .res-div1 {
+        display: flex;
+    }
+
+    .figure-2 img {
+        width: 320px;
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-right: 15px;
+    }
+
+    .figure-2 figcaption {
+        top: 25px;
+        left: 30px;
+    }
+
+    .figure-3 img {
+        width: 320px;
+        margin-left: 0px;
+    }
+
+    .figure-3 figcaption {
+        top: 25px;
+        left: 30px;
+    }
+
+    .figure-4 img {
+        height: 300px;
+        width: 655px;
+        margin-bottom: 0px;
+    }
+
+    .figure-5 img {
+        height: 300px;
+        width: 655px;
+        margin-left: 0px;
+    }
+
+    #trendy-products button {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .cart-1 a {
+        top: 565px;
+        left: 146px;
+    }
+
+    #trendy-products .col-3 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+
+    #trendy-products .tr-3 {
+        margin-top: 35px;
+    }
+
+    .section-plus::before {
+        left: 247px;
+    }
+
+    .view-more .view-flex {
+        display: flex;
+    }
+
+    .view-more .col-4 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .view-flex .view-flex-sub {
+        margin-top: 0px !important;
+    }
+
+    .view-last {
+        margin-bottom: 0px !important;
+    }
+
+    #blogs .col-3 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+
+    .blog-res-1 {
+        margin-top: 30px;
+    }
+
+    .blog-res-2 {
+        margin-top: 120px;
+    }
+
+    .footer .row .col-3 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .footer .row .col-2 {
+        flex: 0 0 auto;
+        width: 33.33%;
+    }
+
+    .subs {
+        left: 250px;
+    }
+
+
+    .breadcrumb {
+        margin: 0px 292px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .col-8 {
+        flex: none;
+        width: 100%;
+    }
+
+    .col-4 {
+        flex: none;
+        width: 100%;
+    }
+
+    .cart-1 a {
+        top: 430px;
+        left: 100px;
+    }
+
+    .section-plus::before {
+        left: 155px;
+    }
+
+    .view-more .view-flex {
+        display: unset;
+    }
+
+    .view-more .view-flex .d-flex {
+        margin: 20px 0px;
+    }
+
+    .subs {
+        left: 166px;
+    }
+
+    #blogs .col-3:nth-child(2) {
+        margin-top: 408px;
+        width: 100%;
+    }
+
+    #blogs .col-3:nth-child(4) {
+        margin-top: 408px;
+        width: 100%;
+    }
+
+    .footer .footer-p {
+        margin: 0 0;
+    }
+
+    .breadcrumb {
+        margin: 0px 202px;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+
+    .search {
+        width: 69%;
+    }
+
+    .mb-8 {
+        margin-bottom: 6rem;
+    }
+
+    .col-8 {
+        flex: 0 0 auto;
+        width: 66%;
+    }
+
+    .col-4 {
+        flex: 0 0 auto;
+        width: 33%;
+    }
+
+    .cart-1 a {
+        top: 767px;
+        left: 218px;
+    }
+
+    .section-plus::before {
+        left: 365px;
+    }
+
+    #blogs .col-3:nth-child(2) {
+        margin-top: 27px;
+        width: 50%;
+    }
+
+    #blogs .col-3:nth-child(4) {
+        margin-top: 182px;
+        width: 50%;
+    }
+
+    #blogs .col-3:nth-child(3) {
+        margin: 180px 0px 300px 0px;
+    }
+
+    .view-more .view-flex {
+        display: flex;
+    }
+
+    #blogs .row {
+        margin: 0 auto;
+    }
+
+    .view-more .col-4 {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+
+    .view-flex .view-flex-sub {
+        margin-top: 0px !important;
+    }
+
+    .view-last {
+        margin-bottom: 0px !important;
+    }
+
+    #blogs .col-3 {
+        flex: 0 0 auto;
+        width: 40%;
+    }
+
+    .blog-res-1 {
+        margin-top: 30px;
+    }
+
+    .blog-res-2 {
+        margin-top: 140px;
+    }
+
+    .footer .row .col-3 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+
+    .footer .row .col-2 {
+        flex: 0 0 auto;
+        width: 49.9%;
+    }
+
+    .subs {
+        left: 350px;
+    }
+}
